@@ -6,7 +6,7 @@
   <meta name="description" content="Modern React Yoga & Wellness Website Template for fitness trainers, meditation coaches, and health businesses. Responsive, calming, and SEO optimized." />
   <meta name="keywords" content="yoga-website-template, fitness-website-template, wellness-website-template, health-and-wellness-website-template, meditation-website-template, yoga-instructor-website-template, fitness-react-template, wellness-react-template" />
   <meta name="author" content="Themixly Web" />
-  <link rel="canonical" href="(https://themixly.com/preview/3334/yoga-website-react-template/" />
+  <link rel="canonical" href="https://themixly.com/preview/3334/yoga-website-react-template/" />
 </head>
 <body>
 
